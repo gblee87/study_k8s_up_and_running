@@ -1,2 +1,2 @@
-# study_k8s_up_and_running
-study k8s up and running book example
+# examples
+Example code and files from "Kubernetes: Up and Running"
